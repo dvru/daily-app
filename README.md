@@ -6,5 +6,5 @@ An Interactive List Organizing app, built using JavaScript, HTML, CSS, XD
 - [LIVE DEMO] (https://dvru.github.io/daily-app/)
 
 ## Sample
-![Preview](img/Preview.mov)
+![Preview](img/preview.png)
 
