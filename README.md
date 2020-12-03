@@ -7,4 +7,7 @@ An Interactive List Organizing app, built using JavaScript, HTML, CSS, XD
 
 ## Preview
 ![Preview](img/preview.png)
+[![Demo CountPages alpha](https://gifs.com/gif/daily-app-Qn93ZZ)](https://youtu.be/qRYK0KeQ7Vk)
+
+
 
